@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="currentTime" type="id" />
+    <item name="currentDate" type="id" />
+    <item name="setAlarmButton" type="id" />
+    <item name="main" type="id" />
+    <item name="timePicker" type="id" />
+    <item name="setToneButton" type="id" />
+    <item name="saveAlarmButton" type="id" />
+    <item name="dismissButton" type="id" />
+    <item name="snoozeButton" type="id" />
+</resources>
